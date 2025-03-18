@@ -4,6 +4,9 @@
 A Responsive Ecommerce Website Project With HTML CSS JavaScript
 # IndiaMART Revamped Frontend  
 
+## Demo
+[View Demo](https://frontend-frontier.vercel.app/shop.html)
+
 ## 📌 Overview  
 This project is a redesigned and modernized version of the IndiaMART website's frontend. The aim is to improve user experience, enhance UI/UX, and optimize performance using the latest web technologies.  
 
@@ -30,19 +33,19 @@ To run this project locally, follow these steps:
 ##Explore Page
 ![Screenshot 1](assets/img/SC1.png)
 
-##Login/Signup
+## Login/Signup
 
 ![Screenshot 2](assets/img/SC2.png) 
 
-##Sellers' Page
+## Sellers' Page
 
 ![Screenshot 2](assets/img/SC3.png) 
 
-##Product Detail Page
+## Product Detail Page
 
 ![Screenshot 2](assets/img/SC4.png) 
 
-##Contact Seller Form
+## Contact Seller Form
 
 ![Screenshot 2](assets/img/SC5.png) 
 
@@ -51,10 +54,6 @@ To run this project locally, follow these steps:
 ## 📬 Contact  
 
 For any queries or suggestions, feel free to reach out:  
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
+📧 **Email:** [musicworld4960@gmail.com](mailto:musicworld4960@gmail.com)  
 🔗 **GitHub:** [YuvrajHarsh04](https://github.com/YuvrajHarsh04)  
 
-
-
-[View Demo](https://billalben.github.io/evara-ecommerce/)
->>>>>>> ee880a6 (Initial commit)
