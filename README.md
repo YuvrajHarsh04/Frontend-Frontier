@@ -5,7 +5,7 @@ A Responsive Ecommerce Website Project With HTML CSS JavaScript
 # IndiaMART Revamped Frontend  
 
 ## Demo
-[View Demo](https://frontend-frontier.vercel.app/shop.html)
+[View Demo](https://frontend-frontier.vercel.app/index.html)
 
 ## 📌 Overview  
 This project is a redesigned and modernized version of the IndiaMART website's frontend. The aim is to improve user experience, enhance UI/UX, and optimize performance using the latest web technologies.  
