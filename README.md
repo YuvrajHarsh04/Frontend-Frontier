@@ -18,7 +18,7 @@ This project is a redesigned and modernized version of the IndiaMART website's f
 - Modern UI components and styling  
 
 ## 🛠️ Tech Stack  
-- **Frontend**: HTML, CSS, JavaScript   
+- **Frontend**: HTML, CSS 
 - **Styling**: Bootstrap 
 
 ## 📂 Installation & Setup  
